@@ -2,3 +2,4 @@
 
 from ._01_prepare_fema_declarations import refresh_fema_declarations
 from ._01_prepare_fema_declarations import get_fema_declarations
+from ._01_prepare_fema_declarations import classify_declarations
